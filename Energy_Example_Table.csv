@@ -1,0 +1,4 @@
+"","OR for 20% Increase","Lower 95% CI","Upper 95% CI"
+"Including BMI in outcome model",1.4,1.07,1.83
+"Omitting BMI from outcome model",5.54,2.99,10.25
+"Mudthune's Method",1.71,1.31,2.22
